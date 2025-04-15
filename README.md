@@ -18,19 +18,7 @@ A simple yet structured user authentication system built using **PHP**, **Tailwi
 
 ## 📁 Folder Structure
 
-register_login_system/
-├── public/
-├── src/
-│   ├── main.js
-│   └── style.css
-├── .gitignore
-├── index.html
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-├── README.md
-├── tailwind.config.js
-└── vite.config.js
+<pre> ```text register_login_system/ ├── public/ ├── src/ │ ├── main.js │ └── style.css ├── .gitignore ├── index.html ├── package-lock.json ├── package.json ├── postcss.config.js ├── README.md ├── tailwind.config.js └── vite.config.js ``` </pre>
 
 
 *(Customize as you build)*
