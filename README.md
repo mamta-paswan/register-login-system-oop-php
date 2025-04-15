@@ -16,9 +16,23 @@ A simple yet structured user authentication system built using **PHP**, **Tailwi
 
 ---
 
-## 📁 Folder Structure
+## 📁 Project Structure
 
-<pre> ```text register_login_system/ ├── public/ ├── src/ │ ├── main.js │ └── style.css ├── .gitignore ├── index.html ├── package-lock.json ├── package.json ├── postcss.config.js ├── README.md ├── tailwind.config.js └── vite.config.js ``` </pre>
+```text
+register_login_system/
+├── public/                  # Static assets (e.g. logo, images) used by the app
+├── src/                     # Source files for styling and JavaScript
+│   ├── main.js              # Entry point JavaScript file
+│   └── style.css            # Tailwindcss imports and custom styles
+├── .gitignore               # Files and folders to ignore in Git
+├── index.html               # Main HTML file that loads the app
+├── package-lock.json        # Auto-generated lockfile for npm
+├── package.json             # Project metadata and dependencies
+├── postcss.config.js        # Configuration for Postcss
+├── Readme.md                # This file – project documentation
+├── tailwind.config.js       # Tailwindcss custom config (colours, breakpoints, etc.)
+└── vite.config.js           # Vite configuration file
+
 
 
 *(Customize as you build)*
